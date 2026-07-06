@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Claude Skill](https://img.shields.io/badge/Claude-Skill-blueviolet)](https://www.anthropic.com/claude)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 
 A [Claude Skill](https://www.anthropic.com/news/skills) for conducting
 rigorous, source-verifiable biomedical research analyses and producing
